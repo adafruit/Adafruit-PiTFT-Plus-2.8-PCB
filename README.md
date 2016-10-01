@@ -6,6 +6,7 @@ Format is EagleCAD schematic and board layout
 For more details, check out the product page at
 
    * https://www.adafruit.com/product/2298
+   * https://www.adafruit.com/product/2423
 
 Adafruit invests time and resources providing this open source design, 
 please support Adafruit and open-source hardware by purchasing 
