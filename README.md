@@ -1,7 +1,7 @@
 ## Adafruit PiTFT 2.8 Plus PCB
 
-<a href="http://www.adafruit.com/products/2298"><img src="assets/1135.jpg?raw=true" width="3900px"></a>&nbsp; 
-<a href="http://www.adafruit.com/products/2423"><img src="assets/1171.jpg?raw=true" width="390px"></a><br/>
+<a href="http://www.adafruit.com/products/2298"><img src="assets/2298.jpg?raw=true" width="3900px"></a>&nbsp; 
+<a href="http://www.adafruit.com/products/2423"><img src="assets/2423.jpg?raw=true" width="390px"></a><br/>
 Click the image or links below to go to a specific size board in the Adafruit shop.
 
 PCB files for the Adafruit PiTFT Plus 2.8" Display. Format is EagleCAD schematic and board layout
