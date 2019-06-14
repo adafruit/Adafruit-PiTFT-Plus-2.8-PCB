@@ -8,7 +8,7 @@ PCB files for the Adafruit PiTFT Plus 2.8" Display. Format is EagleCAD schematic
 * https://www.adafruit.com/product/2298
 * https://www.adafruit.com/product/2423
 
-DESCRIPTION
+### DESCRIPTION
 Are these not the cutest little displays for the Raspberry Pi? They feature a 2.8" display with 320x240 16-bit color pixels and a  resistive touchscreen or capacitive touch overlay..
 
 This updated design fits perfectly onto the Pi Zero, Pi 3, Pi 2 or Model A+, B+! (Any Pi with a 2x20 connector) Not for use with an old Pi 1 with 2x13 connector If you'd like to use a 2.8" display with the original Pi A or Pi B, check out the Model B version. This version also has all 40 pins GPIO pins brought out so you can connect a 40-pin GPIO cable underneath. Now that it's the same outline as a Pi 3/2/B+ it fits well on top of a Pi in our Raspberry Pi Enclosure base and can use our faceplate for a compact touchscreen Pi
