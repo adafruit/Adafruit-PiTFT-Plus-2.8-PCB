@@ -2,11 +2,11 @@
 
 <a href="http://www.adafruit.com/products/2298"><img src="assets/2298.jpg?raw=true" width="390px"></a>&nbsp; 
 <a href="http://www.adafruit.com/products/2423"><img src="assets/2423.jpg?raw=true" width="390px"></a><br/>
-Click the image or links below to go to a specific size board in the Adafruit shop.
+Click the image or links below to go to a specific product in the Adafruit shop.
 
 PCB files for the Adafruit PiTFT Plus 2.8" Display. Format is EagleCAD schematic and board layout
-* https://www.adafruit.com/product/2298
-* https://www.adafruit.com/product/2423
+* Resistive Screen https://www.adafruit.com/product/2298
+* Capacitive Touch Screen https://www.adafruit.com/product/2423
 
 ### DESCRIPTION
 Are these not the cutest little displays for the Raspberry Pi? They feature a 2.8" display with 320x240 16-bit color pixels and a  resistive touchscreen or capacitive touch overlay..
